@@ -8,7 +8,7 @@
 - cela correspond à l'**Identité** de la personne sur la carte ID
 - *Exemple: Jean TREMBLET*
 
-## URL : L comme Localité
+## URL : L comme Localisation
 - une URL désigne l'adresse où se situe une ressource
 - cela correspond à la **Localisation** (adresse postale) de la personne sur la carte ID 
 - *Exemple: Rue de la Page 404, 4000 Liège*
