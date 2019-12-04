@@ -15,9 +15,9 @@
 
 ## URI <> URL
 - Toutes les URL sont des URI
-- - il est possible d'identifier une personne avec son adresse
+  - il est possible d'identifier une personne avec son adresse
 - toutes les URI ne sont pas des URL
-- - Michaël Pirali ne donne aucune information sur la localisation.
+  - Michaël Pirali ne donne aucune information sur la localisation.
 
 ### Ressource
 [JDN - journaldunet.fr](https://www.journaldunet.fr/web-tech/developpement/1203023-quelle-est-la-difference-entre-uri-url-et-urn/)
