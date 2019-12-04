@@ -13,7 +13,7 @@
 - cela correspond à la **Localisation** (adresse postale) de la personne sur la carte ID 
 - *Exemple: Rue de la Page 404, 4000 Liège*
 
-# URI <> URL
+## URI <> URL
 - toutes les URL sont des URI
 > il est possible d'identifier une personne avec son adresse
 - toutes les URI ne sont pas des URL
@@ -23,7 +23,7 @@
 - une URN est un identifiant unique dans le temps et l'espace pour une ressource
 - le **Numéro national** d'une personne est par exemple une URN.
 
-# URN <> URI
+## URN <> URI
 - comme expliqué précédement une URN est un identifiant, c'est donc une URI (unique)
 - en revanche, toutes les URI ne sont pas des URN
 > *Jean TREMBLET* peut désigner plusieurs personnes différentes
