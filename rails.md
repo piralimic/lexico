@@ -21,6 +21,11 @@ Launch the local dev server (with default parameters)
 <br>
 
 Create several files and a route to 'name'
-> rails generate controller name
+> rails generate controller Name
+
+<br>
+
+Create a new model 'name' with two parameters 'title' and 'text' and both accept 'string' values
+> rails generate model Name title:string text:string
 
 <br>
