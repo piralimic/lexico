@@ -1,4 +1,7 @@
 # Ruby on Rails 6
+## Managing warnings emitted by Ruby 2.7
+> RUBYOPT=-W:no-deprecated rails ...
+
 ## List of useful commands
 Create a new Rail's project using SQLite into 'myapp' directory
 > rails new myapp
