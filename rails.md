@@ -1,22 +1,17 @@
 # Ruby on Rails 6
-list of useful commands
-
+## List of useful commands
+Create a new Rail's project using SQLite into 'myapp' directory
 > rails new myapp
 <br>
-create a new Rail's project using SQLite into 'myapp' directory
-
+Create a new Rail's project using PostgreSQL into 'myapp' directory
 > rails new myapp -d postgresql
 <br>
-create a new Rail's project using PostgreSQL into 'myapp' directory
-
+Create database
 > rake db:create
 <br>
-create database
-
+Launch the local dev server (with default parameters)
 > rails server
 <br>
-launch the local dev server (with default parameters)
-
+Create several files and a route to 'name'
 > rails generate controller name
 <br>
-create several files and a route to 'name'
