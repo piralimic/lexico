@@ -29,3 +29,8 @@ Create a new model 'name' with two attributes 'title' and 'text' of type 'string
 > rails generate model Name title:string text:string
 
 <br>
+
+Run the migration files and create the tables into the 'production' database
+> rails db:migrate RAILS_ENV=production
+
+<br>
