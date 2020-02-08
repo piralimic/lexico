@@ -25,7 +25,7 @@ Create several files and a route to 'name'
 
 <br>
 
-Create a new model 'name' with two parameters 'title' and 'text' and both accept 'string' values
+Create a new model 'name' with two attributes 'title' and 'text' of type 'string'
 > rails generate model Name title:string text:string
 
 <br>
