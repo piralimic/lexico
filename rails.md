@@ -30,7 +30,7 @@ Create a new model 'name' with two attributes 'title' and 'text' of type 'string
 
 <br>
 
-Run the migration files and create the tables into the 'production' database
+Run the migration files and create the tables to the database defined in the 'production' section of the `config\database.yml` file
 > rails db:migrate RAILS_ENV=production
 
 <br>
