@@ -5,6 +5,7 @@
 ## CodeCademy references
 - [Static Request-Response Cycle](https://www.codecademy.com/articles/request-response-cycle-static)
 - [Dynamic Request-Response Cycle](https://www.codecademy.com/articles/request-response-cycle-dynamic)
+- [Forms Request-Response Cycle](https://www.codecademy.com/articles/request-response-cycle-forms)
 - [Standard Controller Actions](https://www.codecademy.com/articles/standard-controller-actions)
 
 ## List of useful commands
