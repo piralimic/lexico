@@ -2,6 +2,11 @@
 ## Managing warnings emitted by Ruby 2.7
 > RUBYOPT=-W:no-deprecated rails ...
 
+## CodeCademy references
+- [Static Request-Response Cycle](https://www.codecademy.com/articles/request-response-cycle-static)
+- [Dynamic Request-Response Cycle](https://www.codecademy.com/articles/request-response-cycle-dynamic)
+- [Standard Controller Actions](https://www.codecademy.com/articles/standard-controller-actions)
+
 ## List of useful commands
 Create a new Rail's project using SQLite into 'myapp' directory
 > rails new myapp
